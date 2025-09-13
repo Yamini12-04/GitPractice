@@ -65,6 +65,11 @@ public class base {
         Boolean bool= cartProductName.equals(productName);
 
         System.out.println(bool);
+        
+        
+        public void ch() {
+        	System.out.print("Made changes");
+        }
 
 
 
